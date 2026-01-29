@@ -2,7 +2,7 @@
 ## Students of the Data Science Department
 ## Technical Skills
 - Python, SQL, R, Java, etc.
-- 
+
 ## Education
 - **University of Arizona**
 - **Beijing Capital University of Economics and Trade**
@@ -23,8 +23,7 @@
 ## Contact
 - Email:guojingyi@arizona.edu
 
-- ## Publications & Talks
+## Publications & Talks
 - Conference papers, blog posts, presentations
 
 ## Certifications
-- AWS Certified Machine Learning, Google Data Analytics, etc.
