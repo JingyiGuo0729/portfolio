@@ -4,11 +4,9 @@
 - Python, SQL, R, Java, etc.
 
 ## Education
-- **University of Arizona**
-- **Beijing Capital University of Economics and Trade**
+- **University of Arizona and Beijing Capital University of Economics and Trade**
 - Double degree
-- A junior student
-- Statistics
+- A junior student of Statistics
 -thesis, honors
   
 ## Work Experience
