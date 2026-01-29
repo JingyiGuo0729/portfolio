@@ -1,5 +1,5 @@
 # Jingyi Guo
-## Data Scientist
+## Students of the Data Science Department
 ## Education
 - **University of Arizona** (Degree, Year)
   - Relevant coursework, thesis, honors
