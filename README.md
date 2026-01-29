@@ -7,7 +7,7 @@
 - **University of Arizona and Beijing Capital University of Economics and Trade**
 - Double degree
 - A junior student of Statistics
--thesis, honors
+- thesis, honors
   
 ## Work Experience
 - **Company Name:Chongqing YuZhiChain E-commerce Co., Ltd.** (Worked as an intern for two months)  
