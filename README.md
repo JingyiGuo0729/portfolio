@@ -1,27 +1,39 @@
-# Jingyi Guo
-## Students of the Data Science Department
-## Technical Skills
-- Python, SQL, R, Java, etc.
+# Hi there, I'm Jingyi Guo 👋
 
-## Education
-- **University of Arizona and Beijing Capital University of Economics and Trade**
-- Double degree
-- A junior student of Statistics
-- thesis, honors
-  
-## Work Experience
-- **Company Name:Chongqing YuZhiChain E-commerce Co., Ltd.** (Worked as an intern for two months)  
-  During my internship, I was mainly responsible for data organization, financial assistance, and event execution. My Excel skills and data processing capabilities have been significantly improved.
+### Data Scientist | Statistics Major 
 
-## Projects
-### Project Title
-- Description, tech stack, outcomes  
-- [Project Link] 
+I am a junior Statistics student pursuing a **Double Degree** at the **University of Arizona** and the **Capital University of Economics and Business)**. I bridge the gap between rigorous statistical theory and practical data science applications to solve complex real-world problems.
 
-## Contact
-- Email:guojingyi@arizona.edu
+---
 
-## Publications & Talks
-- Conference papers, blog posts, presentations
+### 🎓 Education
+* **University of Arizona & Beijing Capital University of Economics and Business**
+    * *Bachelor of Science in Statistics (Double Degree)* | Junior
+    * **Focus:** Data Science, Thesis Research in progress.
 
-## Certifications
+### 🏆 Achievements
+* **National Silver Medalist:** Second Prize in the **National College Students' Innovation and Entrepreneurship Competition**. 
+    * *Recognized for excellence in innovative thinking, project execution, and data-driven business modeling.*
+
+### 💼 Professional Experience
+* **Lenovo** | *Data Analytics Intern*
+  * Automated regional sales reporting by developing Python scripts, reducing manual data entry time by approximately 40% and minimizing human error.
+  * Optimized supply chain datasets using SQL to query large-scale databases, ensuring high data integrity for quarterly business reviews.
+  * Developed interactive dashboards (Excel/Power BI) to track product lifecycle metrics, providing stakeholders with real-time visibility into market performance.
+* **Chongqing YuZhiChain E-commerce Co., Ltd.** | *Data Science Intern*
+  * Streamlined data organization workflows and assisted in financial data auditing.
+  * Executed data-driven event strategies, significantly improving Excel-based processing efficiency and reporting accuracy.
+  * Collaborated with cross-functional teams to translate raw data into actionable business insights.
+---
+
+### 🛠 Technical Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Data Analysis** | Pandas, NumPy, Scikit-learn, Tidyverse, Matplotlib, Seaborn |
+| **Tools** | Git, GitHub, Microsoft Excel (Advanced), Jupyter Notebooks |
+
+---
+
+### 🚀 Featured Projects
