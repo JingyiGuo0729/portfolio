@@ -44,3 +44,11 @@ I am a junior Statistics student pursuing a **Double Degree** at the **Universit
     * Automated parsing of semi-structured and unstructured metadata into a unified UTF-8 CSV.
     * Implemented performance benchmarking to calculate precise transmission and reception durations.
 * [🔗 View Repository](https://github.com/JingyiGuo0729/Distributed-Retail-Data-Sync)
+  
+#### [Statistical Analysis of NCVS 2022](https://github.com/JingyiGuo0729/Statistical-Analysis-NCVS-2022)
+* **Concept:** A statistical research project using R to analyze the 2022 National Crime Victimization Survey, focusing on the "dark figure" of unreported crimes.
+* **Tech Stack:** R | Tidyverse | Fay’s BRR Method | Complex Survey Weights.
+* **Key Achievements:** * Implemented Fay’s Balanced Repeated Replication (BRR) with 160 replicate weights for precise variance estimation.
+    * Applied a multi-stage weighting pipeline (Base, Nonresponse, and Post-stratification) to align sample data with U.S. population control.
+    * Conducted Design Effect (Deff) analysis to quantify the impact of clustering and calibration on statistical precision.
+* [🔗 View Repository](https://github.com/JingyiGuo0729/Statistical-Analysis-NCVS-2022)
