@@ -52,3 +52,8 @@ I am a junior Statistics student pursuing a **Double Degree** at the **Universit
     * Applied a multi-stage weighting pipeline (Base, Nonresponse, and Post-stratification) to align sample data with U.S. population control.
     * Conducted Design Effect (Deff) analysis to quantify the impact of clustering and calibration on statistical precision.
 * [🔗 View Repository](https://github.com/JingyiGuo0729/Statistical-Analysis-NCVS-2022)
+
+### 📫 Let's Connect!
+* **Email:** [guojingyi@arizona.edu](mailto:guojingyi@arizona.edu)
+
+ *"Data is the new oil, but statistics is the engine."*
