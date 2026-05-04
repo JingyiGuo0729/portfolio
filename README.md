@@ -39,7 +39,7 @@ I am a junior Statistics student pursuing a **Double Degree** at the **Universit
 ### 🚀 Featured Projects
 #### [Distributed Retail Data Sync System](https://github.com/JingyiGuo0729/Distributed-Retail-Data-Sync)
 * **Concept:** A distributed system for synchronizing heterogeneous retail data (XLSX, CSV) between rural stores and a central server center.
-* **Tech Stack:** Python | Socket Programming (TCP/UDP) | Pandas | [cite_start]Multi-threading.
+* **Tech Stack:** Python | Socket Programming (TCP/UDP) | Pandas | Multi-threading.
 * **Key Achievements:** * Supported hybrid protocols (TCP/UDP) for flexible data transmission.
     * Automated parsing of semi-structured and unstructured metadata into a unified UTF-8 CSV.
     * Implemented performance benchmarking to calculate precise transmission and reception durations.
