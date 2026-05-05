@@ -1,8 +1,10 @@
 # Hi there, I'm Jingyi Guo 👋
 
-### Data Scientist | Statistics Major 
+### Data Scientist | Statistics & Data Engineering Enthusiast
 
-I am a junior Statistics student pursuing a **Double Degree** at the **University of Arizona** and the **Capital University of Economics and Business)**. I bridge the gap between rigorous statistical theory and practical data science applications to solve complex real-world problems.
+> "Data is the new oil, but statistics is the engine that refines it."
+
+I am a junior Statistics student pursuing a **Double Degree** at the **University of Arizona** and the **Capital University of Economics and Business**. I specialize in bridging the gap between high-level statistical theory and scalable data engineering to solve complex, real-world problems.
 
 ---
 
@@ -55,5 +57,6 @@ I am a junior Statistics student pursuing a **Double Degree** at the **Universit
 
 ### 📫 Let's Connect!
 * **Email:** [guojingyi@arizona.edu](mailto:guojingyi@arizona.edu)
-
- *"Data is the new oil, but statistics is the engine."*
+* **GitHub:** [@JingyiGuo0729](https://github.com/JingyiGuo0729)
+ ---
+*Created with ❤️ by Jingyi Guo*
